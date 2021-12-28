@@ -19,4 +19,6 @@ Skills:   REACT / JS / HTML / CSS / SCSS / LESS / PHP
 
 🌱 I’m currently learning front-end development
 
+⚡ You can know more about me ka4alkin-info.h993271h.beget.tech
+
 
