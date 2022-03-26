@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Skills:   REACT / JS / HTML / CSS / SCSS / LESS / PHP
+Skills:   REACT / NODE / REST / JS / HTML / CSS / SCSS / LESS / PHP 
 
-🌱 I’m currently learning front-end development
+🌱 I’m currently learning full stack javascript development
 
-⚡ You can know more about me http://ka4alkin-info.h993271h.beget.tech/
 
 
